@@ -1,6 +1,8 @@
 # Charting Surfaces
 
-- [x] Chart Impermanent Loss 
+- [x] Impermanent Loss 
+- [ ] Traditional Option Payoff
+- [ ] Uv3 Payoff
 
 ## Running 
 ```
